@@ -55,4 +55,4 @@ My research interest is at the intersection of systems and security, especially 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 👻 Projects
-- A Fast and Complete Swift Drawing(Handwriting) Library for iOS [FastDraw](https://github.com/collinzrj/FastDraw)
+- [FastDraw](https://github.com/collinzrj/FastDraw) A Fast and Complete Swift Drawing(Handwriting) Library for iOS
