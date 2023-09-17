@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest is at the intersection of systems and security, especially building systems that can solve real-world problems by making sophisticated cryptography practical. I'm currently working on Zero-Knowledge Proofs.
+Hi, I'm a first year CS PhD student at Cornell. My research interest is at the intersection of systems and applied crypto, especially building systems that can solve real-world problems by making sophisticated cryptography practical. I'm currently working on Zero-Knowledge Proofs.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
