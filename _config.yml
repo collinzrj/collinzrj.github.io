@@ -27,7 +27,7 @@ author:
   location         : "Ithaca, New York"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=EH6bkiwAAAAJ&hl=en" 
   email            : "rz454@cornell.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
