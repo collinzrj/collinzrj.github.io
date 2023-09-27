@@ -56,3 +56,6 @@ Hi, I'm a first year CS PhD student at Cornell. My research interest is at the i
 
 # 👻 Projects
 - [FastDraw](https://github.com/collinzrj/FastDraw) A Fast and Complete Swift Drawing(Handwriting) Library for iOS
+
+# 🎤 Talks
+- Presented [Zombie: Middleboxes that Don’t Snoop](/pdfs/zombie.pdf) at [Cornell Systems Lunch](https://www.cs.cornell.edu/courses/cs7490/2023fa/) on Sep 22 2023
