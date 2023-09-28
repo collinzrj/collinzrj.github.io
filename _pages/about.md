@@ -46,6 +46,7 @@ Hi, I'm a first year CS PhD student at Cornell. My research interest is at the i
 # 📖 Educations
 - *2023.08 - (now)*, Cornell University, PhD, Computer Science 
 - *2019.09 - 2023.05*, New York University Stern School of Business, BS, Computer Science & Econometrics
+- *2016.09 - 2019.06*, Nanjing Foreign Language School
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
