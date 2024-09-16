@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a first year CS PhD student at Cornell. My research interest is machine learning security and privacy. Previously I have also worked on Zero-Knowledge Proofs.
+Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. My research interest is machine learning security and privacy. Previously I have also worked on Zero-Knowledge Proofs.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -37,7 +37,7 @@ Hi, I'm a first year CS PhD student at Cornell. My research interest is machine 
 </div>
 </div> -->
 
-- ``NSDI 2024`` <span style="color:red">(to appear)</span> [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
+- ``NSDI 2024``</span> [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
 - [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
 
