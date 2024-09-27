@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. My research interest is machine learning security and privacy. Previously I have also worked on Zero-Knowledge Proofs.
+Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. I'm currently at New York City. My research interest is machine learning security and privacy. I'm currently working on adversarial attacks on language models and embedding models. Previously I have also worked on Zero-Knowledge Proofs.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -37,8 +37,10 @@ Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatik
 </div>
 </div> -->
 
-- ``NSDI 2024``</span> [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
-- [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
+- ``NSDI 2024`` [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
+- ``EMNLP 2024`` [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
+
+# 📝 Preprints
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
 
 <!-- # 🎖 Honors and Awards
