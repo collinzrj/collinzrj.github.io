@@ -41,6 +41,7 @@ Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatik
 - ``EMNLP 2024`` [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
 
 # 📝 Preprints
+- [Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](https://arxiv.org/abs/2410.02163), **Collin Zhang**, Tingwei Zhang, Vitaly Shmatikov
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
 
 <!-- # 🎖 Honors and Awards
