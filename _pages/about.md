@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at <img style="width: 3%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM).  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
+Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM).  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
 
 # 📝 Publications 
 
@@ -28,7 +28,7 @@ Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatik
 - [Adversarial Decoding: Generating Readable Documents for Adversarial Objectives](https://arxiv.org/abs/2410.02163), **Collin Zhang**, Tingwei Zhang, Vitaly Shmatikov
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
 - [Universal Zero-shot Embedding Inversion](https://arxiv.org/abs/2504.00147), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
-- [Harnessing the Universal Geometry of Embeddings], Rishi Jha, **Collin Zhang**, Vitaly Shmatikov, John X Morris
+- [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540), Rishi Jha, **Collin Zhang**, Vitaly Shmatikov, John X Morris
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,6 +48,8 @@ Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatik
 
 # 👻 Projects
 - [FastDraw](https://github.com/collinzrj/FastDraw) A Fast and Complete Swift Drawing(Handwriting) Library for iOS
+- [adversarial_decoding](https://github.com/collinzrj/adversarial_decoding) Generating Readable Documents for Multiple Adversarial Objectives 
+- [output2prompt](https://github.com/collinzrj/output2prompt) Inverting Outputs to Prompts
 
 # 🎤 Talks
 - Presented **Zombie: Middleboxes that Don’t Snoop** ([Slide](/pdfs/zombie.pdf)) at [Cornell Systems Lunch](https://www.cs.cornell.edu/courses/cs7490/2023fa/) on Sep 22 2023
