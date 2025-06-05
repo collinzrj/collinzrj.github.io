@@ -17,32 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. I'm currently at New York City. My research interest is machine learning security and privacy. I'm currently working on adversarial attacks on language models and embedding models. Previously I have also worked on Zero-Knowledge Proofs.
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at [Qwen Team](https://github.com/QwenLM).  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
 
 # 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 
 - ``NSDI 2024`` [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
 - ``EMNLP 2024`` [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
 
 # 📝 Preprints
-- [Controlled Generation of Natural Adversarial Documents for Stealthy Retrieval Poisoning](https://arxiv.org/abs/2410.02163), **Collin Zhang**, Tingwei Zhang, Vitaly Shmatikov
+- [Adversarial Decoding: Generating Readable Documents for Adversarial Objectives](https://arxiv.org/abs/2410.02163), **Collin Zhang**, Tingwei Zhang, Vitaly Shmatikov
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
+- [Universal Zero-shot Embedding Inversion](https://arxiv.org/abs/2504.00147), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
+- [Harnessing the Universal Geometry of Embeddings], Rishi Jha, **Collin Zhang**, Vitaly Shmatikov, John X Morris
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
