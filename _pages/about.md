@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM).  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
+Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM) in Shanghai.  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
 
 # 📝 Publications 
 
