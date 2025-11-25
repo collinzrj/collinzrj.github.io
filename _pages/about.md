@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second year CS PhD student at Cornell Tech working with Vitaly Shmatikov. Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM) in Shanghai.  My research interest is AI Safety and LLM Control & Intervention. Previously I have also worked on Zero-Knowledge Proofs.
+Hi, I'm a third year CS PhD student at Cornell Tech working with Vitaly Shmatikov. My research interest is AI Safety and LLM Control & Intervention.
+
+Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM) in Shanghai working with [Fei Huang](https://scholar.google.com/citations?user=7udAEzMAAAAJ).
+At Qwen, I developed intervention mechanisms that prevents LLM repetition and [language confusion](https://arxiv.org/abs/2510.17555). Both of them have been deployed in Qwen API and Qwen Chat.
 
 # 📝 Publications 
 
+- ``NeurIPS 2025`` [Harnessing the universal geometry of embeddings](https://arxiv.org/abs/2505.12540), Rishi Jha, **Collin Zhang**, Vitaly Shmatikov, John X. Morris
 - ``NSDI 2024`` [Zombie: Middleboxes that Don’t Snoop](https://eprint.iacr.org/2023/1022.pdf), **Collin Zhang**, Zachary DeStefano, Arasu Arun, Joseph Bonneau, Paul Grubbs, Michael Walfish
 - ``EMNLP 2024`` [Extracting Prompts by Inverting LLM Outputs](https://arxiv.org/pdf/2405.15012), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
 
 # 📝 Preprints
+- [Language Confusion Gate: Language-Aware Decoding Through Model Self-Distillation](https://arxiv.org/abs/2510.17555), **Collin Zhang**, Fei Huang, Chenhan Yuan, Junyang Lin
 - [Adversarial Decoding: Generating Readable Documents for Adversarial Objectives](https://arxiv.org/abs/2410.02163), **Collin Zhang**, Tingwei Zhang, Vitaly Shmatikov
 - [Soft Prompts Go Hard: Steering Visual Language Models with Hidden Meta-Instructions](https://arxiv.org/pdf/2407.08970), Tingwei Zhang, **Collin Zhang**, John X Morris, Eugene Bagdasaryan, Vitaly Shmatikov
 - [Universal Zero-shot Embedding Inversion](https://arxiv.org/abs/2504.00147), **Collin Zhang**, John X. Morris, Vitaly Shmatikov
