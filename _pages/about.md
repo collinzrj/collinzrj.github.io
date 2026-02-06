@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a third year CS PhD student at Cornell Tech working with Vitaly Shmatikov. My research interest is AI Safety and LLM Control & Intervention.
+Hi, I'm a third year CS PhD student at Cornell Tech working with Vitaly Shmatikov. My research interest is LLM alignment.
 
 Currently I'm a Research Intern at <img style="width: 2%;" src="/assets/qwen.png" alt="Qwen Logo"> [Qwen Team](https://github.com/QwenLM) in Shanghai working with [Fei Huang](https://scholar.google.com/citations?user=7udAEzMAAAAJ).
-At Qwen, I developed intervention mechanisms that prevents LLM repetition and [language confusion](https://arxiv.org/abs/2510.17555). Both of them have been deployed in Qwen API and Qwen Chat.
+At Qwen, I developed intervention mechanisms that prevents LLM repetition and [language confusion](https://arxiv.org/abs/2510.17555). Both of them have been deployed in Qwen API and Qwen Chat. I have also worked on LLM hallucination reduction through RL.
 
 # 📝 Publications 
 
